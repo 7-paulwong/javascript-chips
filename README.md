@@ -23,5 +23,14 @@ num.toString(8);//'13'
 num.toString(16);//'b'
 ```
 
+`String.fromCharCode(num)`
+
+`str.charCodeAt(index)`
+
+```javascript
+String.fromCharCode(65, 66, 67);  // "ABC"
+"ABC".charCodeAt(0);//65
+```
+
 
 
